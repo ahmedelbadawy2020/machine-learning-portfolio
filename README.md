@@ -1,8 +1,10 @@
 # Machine Learning Portfolio
 
-Machine learning projects built from scratch in Python.
+Machine learning projects in Python.
 
-## Machine Learning
+## 30 Days of Machine Learning
+
+Following Alex Xu's 30-day ML challenge: https://github.com/AlexZXu/data-science-learning
 
 | Day | Topic | Project |
 |---|---|---|
